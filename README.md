@@ -1,6 +1,9 @@
 # Peristaltic pump for small liquid flow rates
 
 ## Simple peristaltic pump designed for small liquid flow rates.
+
+Designed in FreeCAD v0.20
+
 * Powered by a NEMA 17 stepper motor
 * Designed for small silicone hose (OD = 3 mm, ID = 1 mm)
 * Parts optimized for FDM 3D printing
